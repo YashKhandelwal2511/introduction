@@ -17,4 +17,4 @@ cin>>e;
 f=a-(b+c+d+e);
 cout<<"total profit made by the institution in the year is f=;
 getch();
-}
+
